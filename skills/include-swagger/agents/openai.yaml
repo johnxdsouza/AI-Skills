@@ -1,0 +1,3 @@
+interface:
+  display_name: "Include Swagger"
+  short_description: "Wire springdoc + Swagger UI into a non-Boot Spring Framework WAR"
